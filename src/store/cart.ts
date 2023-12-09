@@ -1,4 +1,3 @@
-// cart.ts
 import { defineStore } from 'pinia'
 
 export const useCart = defineStore({
